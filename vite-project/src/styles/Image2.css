@@ -1,0 +1,18 @@
+#parent1{
+    display: flex;
+    gap: 10px;
+    padding-left: 35px;
+    padding-top: 20px;
+  }
+  h1 {
+    margin-top: 40px;
+    padding-left: 50px;
+    font-weight: bolder;
+    font-size:xx-large
+  }
+  #p2:hover {
+    background-color:rgb(252, 245, 245);
+    cursor: pointer;
+    
+  }
+  

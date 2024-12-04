@@ -1,0 +1,51 @@
+#ParentF{
+    display: flex;
+    margin-top: 30px;
+    justify-content: space-around;
+}
+
+h2{
+    font-weight: bolder;
+    font-size: x-large;
+    color: #211E22;
+}
+p{
+    padding-top: 8px;
+    font-family:  sans-serif;
+    font-weight: lighter;
+    color:  #333;
+    /* color: #3b393b; */
+}
+p:hover{
+    
+    cursor: pointer;
+    text-decoration: underline #7B189F;
+}
+#c1{
+    font-weight: bolder;
+    font-size: large;
+    color: #211E22;
+}
+#c2{
+    font-weight: bolder;
+    font-size: large;
+    color: #211E22;
+}
+#b1{
+    background-color:#7B189F;
+    
+    padding: 10px;
+    width: 160px;
+    color: white;
+    border-radius: 20px;
+}
+#b2{
+    border: 1px solid #7B189F;
+    margin-top: 10px;
+    padding: 10px;
+    width: 160px;
+    border-radius: 20px;
+}
+#image{
+    cursor: pointer;
+}
